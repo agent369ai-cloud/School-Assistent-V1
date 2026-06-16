@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+sqlalchemy
+sse-starlette
+openai
+python-multipart
+jinja2
